@@ -1,0 +1,35 @@
+body{
+    font-family: monospace;
+    font-weight: bold;
+    background-color: rgb(9, 105, 48);
+    text-align: center;
+}
+h1{
+    font-size: 80px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: rgb(242, 178, 17);
+    text-shadow: 0 2px 2px black;
+}
+.intro-msg{
+    padding-top: 10px;
+    color: white;
+    font-size: 40px;
+}
+#player-el{
+    color: white;
+    font-size: 40px;
+}
+button{
+    color: rgb(9, 105, 48);
+    background-color: rgb(242, 178, 17);
+    width: 40vh;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 0px;
+    font-size: 26px;
+    font-weight: bolder;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 1);
+    /* margin-top: 3px; */
+    /* margin-bottom: 3px; */
+}
